@@ -1,0 +1,26 @@
+<style>
+  body{
+    background-color : aliceblue;
+  }
+  h1{
+    color : brown;
+    text-align : center;
+  }
+  form{
+    background-color : pink;
+  }
+  p{
+    text-indent : 1em;
+    font-size : 1em;
+    font-style : italic;
+  }
+  span{
+    font-style : normal;
+    font-weight : bold;
+    color : blue;
+  }
+  footer{
+    background : orange;
+    border-radius : 10px;
+  }
+  </style>
